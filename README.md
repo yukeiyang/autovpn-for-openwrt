@@ -4,7 +4,7 @@ Automatically exported from code.google.com/p/autovpn-for-openwrt
 
 此项目原托管在 https://code.google.com/p/autovpn-for-openwrt/ 
 
-But, Google Code will be turning read-only on August 25th. See this post for more information.
+But, Google Code will be turning read-only on August 25th, 2015. 
 
 所以我将其备份到github中备用.
 
